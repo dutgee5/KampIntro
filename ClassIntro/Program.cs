@@ -37,6 +37,9 @@ namespace ClassIntro
             foreach (Kurs kurs in kurslar)
             {
                 Console.WriteLine(kurs.KursAdi + " :" + kurs.Egitmen);
+
+
+
             }
         }
     }

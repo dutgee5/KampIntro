@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{A29D3D11-8E4F-4400-9DB6-C859F1BF3D61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{2FC3AD1F-1916-460A-8575-5E12E3CB6744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{2FC3AD1F-1916-460A-8575-5E12E3CB6744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{369DAA9A-B641-4117-939D-95B723C8991C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{369DAA9A-B641-4117-939D-95B723C8991C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{CDE54A79-B824-4DDA-9A70-D4E0ADF2DA8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{369DAA9A-B641-4117-939D-95B723C8991C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369DAA9A-B641-4117-939D-95B723C8991C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369DAA9A-B641-4117-939D-95B723C8991C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE54A79-B824-4DDA-9A70-D4E0ADF2DA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE54A79-B824-4DDA-9A70-D4E0ADF2DA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE54A79-B824-4DDA-9A70-D4E0ADF2DA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE54A79-B824-4DDA-9A70-D4E0ADF2DA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
